@@ -10,8 +10,8 @@ In diesem Projekt verwenden wir einen Datensatz, der verschiedene Merkmale enth√
 
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/dein-benutzername/versicherungs-projekt.git
-   cd versicherungs-projekt
+   git clone https://github.com/DavidZha1994/Code-challenge.git
+   cd Code-challenge
 
 2. Erstelle eine virtuelle Umgebung und installiere die Abh√§ngigkeiten:
     ```bash
